@@ -5,4 +5,4 @@
 
 #### Part  1 : Problem Solving 
 
-#### Part  2 :  Spme Machine Machine Learning Algorthm coding from  Scratch as  :  SVM , Logistic Regression  , Random Forest etc.. 
+#### Part  2 :  S0me Machine Machine Learning Algorthm coding from  Scratch as  :  SVM , Logistic Regression  , Random Forest etc.. 
