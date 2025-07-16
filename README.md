@@ -1,7 +1,30 @@
 
 # Projet de Programmation Avancée
 
-## Résumé 📖
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![License: Open](https://img.shields.io/badge/license-Open-lightgrey.svg)](#)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
+[![NumPy](https://img.shields.io/badge/numpy-supported-orange.svg)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/pandas-supported-lightblue.svg)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/matplotlib-supported-yellow.svg)](https://matplotlib.org/)
+[![CVXPY](https://img.shields.io/badge/cvxpy-supported-blue.svg)](https://www.cvxpy.org/en/stable/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-supported-green.svg)](https://scikit-learn.org/stable/)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-notebook-orange.svg)](https://jupyter.org/)
+
+
+- [Projet de Programmation Avancée](#projet-de-programmation-avancée)
+  - [Résumé](#résumé-)
+  - [1. Problem Solving](#1-problem-solving)
+  - [2. Régression Logistique (NumPy)](#2-régression-logistique-numpy)
+  - [3. Arbres de Décision et Forêts Aléatoires (Pandas)](#3-arbres-de-décision-et-forêts-aléatoires-pandas)
+  - [4. Support Vector Machines (CVXPY)](#4-support-vector-machines-cvxpy)
+  - [Installation](#installation)
+  - [Exécution](#exécution)
+  - [Structure du Projet](#structure-du-projet)
+  - [Auteurs](#auteurs)
+
+
+## Résumé 
 Ce projet regroupe plusieurs travaux de programmation avancée en Python, articulés autour de la résolution de problèmes algorithmiques classiques et de l'implémentation de modèles de machine learning à partir de zéro.
 Le projet est divisé en plusieurs parties, couvrant à la fois la résolution de problèmes complexes et l'apprentissage supervisé en utilisant Python pur, NumPy, Pandas, et CVXPY.
 
